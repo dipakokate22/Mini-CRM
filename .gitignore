@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+mini-crm-backend/node_modules/
+mini-crm-frontend/node_modules/
+
+# Build artifacts
+mini-crm-frontend/build/
+mini-crm-backend/*.log
+
+# Env files
+.env
+.env.*
+mini-crm-backend/.env
+mini-crm-frontend/.env
